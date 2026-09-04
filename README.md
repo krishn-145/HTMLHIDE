@@ -15,6 +15,7 @@ Usage:
 1 Put your own index.html in this folder.
 ```
 git clone https://gitHub.com/onxx-x145/HTMLHIDE.git
+cd HTMLHIDE
 chmod +x install.sh
 ./install.sh
 ```

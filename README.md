@@ -14,17 +14,19 @@ Features:
 Usage:
 1 Put your own index.html in this folder.
 ```
-bash install.sh
+git clone https://gitHub.com/onxx-x145/HTMLHIDE.git
+chmod +x install.sh
+./install.sh
 ```
-==
+---
 4. Usage: python codehide.py INPUT OUTPUT
-==
-===
+---
+--
 3. Run: bash htmlshield.sh
-===
-===
+--
+--
 5 Result: protected/index.html
-===
+--
 
 This is source packaging/obfuscation, not cryptographic protection.
 

@@ -14,10 +14,18 @@ Features:
 Usage:
 1 Put your own index.html in this folder.
 ```
-2. bash install.sh
+bash install.sh
 ```
-4 Usage: python codehide.py INPUT OUTPUT
+==
+4. Usage: python codehide.py INPUT OUTPUT
+==
+===
 3. Run: bash htmlshield.sh
+===
+===
 5 Result: protected/index.html
+===
 
 This is source packaging/obfuscation, not cryptographic protection.
+
+</> BY : HARI • ONXX [✓]
